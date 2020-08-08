@@ -1,0 +1,19 @@
+{
+    "name": "octacondeveloper/laravel-naija-faker",
+    "description": "A Laravel package that generates fake data for user to use in the project. A local version of Fzaninotto's faker for Nigerian developers quick data that they can relate to",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OctaconDeveloper",
+            "email": "harrysjil@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OctaconDeveloper\\LaravelNaijaFaker\\": "src/"
+        }
+    }
+}
