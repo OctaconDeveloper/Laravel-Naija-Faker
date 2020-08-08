@@ -7,10 +7,6 @@ A PHP library that generates fake data for user to use in the project. A local v
 composer require octacondeveloper/laravel-naija-faker
 ```
 
-Register Service Provider in config/app.php
-```
-OctaconDeveloper\LaravelNaijaFaker\NaijaFakerServiceProvider::class,
-```
 
 ```
 use OctaconDeveloper\LaravelNaijaFaker\Creator;
