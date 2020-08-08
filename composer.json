@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "OctaconDeveloper\\LaravelNaijaFaker\\NaijaFakerServiceProvider";
+                "OctaconDeveloper\\LaravelNaijaFaker\\NaijaFakerServiceProvider"
             ]
         }
     }
