@@ -4,7 +4,7 @@ A PHP library that generates fake data for user to use in the project. A local v
  
 # Installation 
 ```sh
-composer require octacondeveloper/naija-faker
+composer require octacondeveloper/laravel-naija-faker
 ```
 
 ```
