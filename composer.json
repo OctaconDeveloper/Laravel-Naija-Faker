@@ -15,5 +15,12 @@
         "psr-4": {
             "OctaconDeveloper\\LaravelNaijaFaker\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OctaconDeveloper\\LaravelNaijaFaker\\NaijaFakerServiceProvider";
+            ]
+        }
     }
 }
